@@ -2,32 +2,32 @@
 
 <a href="https://ai.aeroscan.co.za/download"><img src="docs/brand/banner.png" alt="AeroScan AI: AI chat and a coding agent, right on your desktop. 40+ AI models, an agent that builds inside your own project folders, and image generation." width="100%"></a>
 
-<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0-beta.11/AeroScan.AI-Beta-Setup-1.0.0-beta.11-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows (installer, 97 MB)" height="64"></a>
-<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0-beta.11/AeroScan.AI-Beta-Portable-1.0.0-beta.11-x64.exe"><img src="docs/brand/btn-portable.png" alt="Portable version, no install needed" height="64"></a>
+<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0/AeroScan.AI-Setup-1.0.0-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows (installer, 97 MB)" height="64"></a>
+<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0/AeroScan.AI-Portable-1.0.0-x64.exe"><img src="docs/brand/btn-portable.png" alt="Portable version, no install needed" height="64"></a>
 <a href="https://ai.aeroscan.co.za/download"><img src="docs/brand/btn-page.png" alt="Download page" height="64"></a>
 <a href="https://ai.aeroscan.co.za/"><img src="docs/brand/btn-android.svg" alt="Download for Android (APK, Android 8 or newer)" height="64"></a>
 <a href="https://discord.gg/DWYhRmu9Dz"><img src="docs/brand/btn-discord.png" alt="Join our Discord" height="64"></a>
 
-<sub>Version 1.0.0-beta.11 · Windows 10 / 11, 64-bit · <b>Android app (beta)</b> too · Free during the beta · <a href="https://github.com/adminaeroscan/aeroscan-beta/releases/latest">All releases</a></sub>
+<sub>Version 1.0.0 · Windows 10 / 11, 64-bit · <b>Android app</b> too · Free plan for everyone · <a href="https://github.com/adminaeroscan/aeroscan-beta/releases/latest">All releases</a></sub>
 
 </div>
 
 <br>
 
-### NEW IN BETA 11
-## Experimental labels, and three quiet fixes
+### NEW IN 1.0
+## AeroScan AI 1.0 is here
 
-- 🧪 **Experimental labels**: Agent and Design now say Experimental in the sidebar, like Projects. They work, but they are still changing quickly.
-- 🔀 **Local git stays in step**: after you merge a pull request in the app, your computer's copy of the branch is brought up to date, safely.
-- 🖥️ **Linked servers wait until needed**: a linked folder on a server is no longer opened on every message.
-- ✅ **Cleaner Left undone**: an edit that had nothing to change no longer shows up as unfinished work.
+- 📱 **Allow this phone**: link your Android phone to your account from the phone, then approve it once on your PC. No code to scan.
+- 🌐 **Rebuild a website from its address**: Design reads the site, writes a full brief you can edit, then rebuilds it with live, animated progress and a much closer match.
+- 🔮 **A better desktop widget**: the orb always fits, cards are bigger and easier to read, and small windows keep just the time, the orb, live activity and the ask box.
+- ⚡ **Faster, lighter agent**: agent mode finds the part of a file it needs and reads only that, so long tasks use far less of the model's memory.
 
-Beta 10 brought **a live preview that works first time, a live Support page and videos that stay**. Beta 9 brought **the new-site wizard, a more alive Desk widget and a calmer start-up**. Beta 8 brought **Design mode, the agent on a server over SSH and linked folders**. Beta 7 brought **specs, Focus windows and a phone remote**. Beta 6 made **the agent get on with it**. Beta 5 brought **update checks at start-up** and a **Files tab** in agent mode. Beta 4 brought **chat that reads the web and cites its sources**.
+Already on a beta? The app offers the update when it starts. Beta 11 brought **Experimental labels and a Left undone that stays tidy**. Beta 10 brought **a live preview that works first time, a live Support page and videos that stay**. Beta 9 brought **the new-site wizard, a more alive Desk widget and a calmer start-up**. Beta 8 brought **Design mode, the agent on a server over SSH and linked folders**. Beta 7 brought **specs, Focus windows and a phone remote**. Beta 6 made **the agent get on with it**. Beta 5 brought **update checks at start-up** and a **Files tab** in agent mode. Beta 4 brought **chat that reads the web and cites its sources**.
 
 <br>
 
 ### ON YOUR PHONE
-## AeroScan AI for Android (beta)
+## AeroScan AI for Android
 
 The same account, the same models, now in your pocket. Chat, make pictures, video and songs, and keep going from where you left off on the desktop.
 
@@ -38,7 +38,7 @@ The same account, the same models, now in your pocket. Chat, make pictures, vide
 - 🛟 **Support and your own providers**: report a problem or an idea and follow the answer, and add your own OpenAI-compatible service with your own key (paid plans).
 - 🔒 **Your own connection**: like the desktop app, requests leave from your phone's own IP through the built-in tunnel.
 
-**Install:** on your phone, open **[ai.aeroscan.co.za](https://ai.aeroscan.co.za/)** and tap **Android app (beta)** to download the APK, then open it and allow **Install unknown apps** for your browser when Android asks. Sign in with the account you use on the desktop. After that the app checks for updates by itself and offers a one-tap download. Android 8 or newer, free during the beta. The website shows the version, size and SHA-256 of the current build, and earlier ones are on the [releases page](https://github.com/adminaeroscan/aeroscan-beta/releases?q=android).
+**Install:** on your phone, open **[ai.aeroscan.co.za](https://ai.aeroscan.co.za/)** and tap **Android app** to download the APK, then open it and allow **Install unknown apps** for your browser when Android asks. Sign in with the account you use on the desktop. After that the app checks for updates by itself and offers a one-tap download. Android 8 or newer, with a free plan for everyone. The website shows the version, size and SHA-256 of the current build, and earlier ones are on the [releases page](https://github.com/adminaeroscan/aeroscan-beta/releases?q=android).
 
 <br>
 
@@ -184,10 +184,10 @@ Models are added and retired all the time, so the full list (chat models, the on
 ### VERIFY
 ## Check your download
 
-The beta isn't code-signed yet, which is why Windows shows a warning. To make sure the file is exactly ours, compare its SHA-256 hash with the one in the [release notes](https://github.com/adminaeroscan/aeroscan-beta/releases/latest):
+The app isn't code-signed yet, which is why Windows shows a warning. To make sure the file is exactly ours, compare its SHA-256 hash with the one in the [release notes](https://github.com/adminaeroscan/aeroscan-beta/releases/latest):
 
 ```powershell
-Get-FileHash "$env:USERPROFILE\Downloads\AeroScan.AI-Beta-Setup-1.0.0-beta.11-x64.exe" -Algorithm SHA256
+Get-FileHash "$env:USERPROFILE\Downloads\AeroScan.AI-Setup-1.0.0-x64.exe" -Algorithm SHA256
 ```
 
 The Android file's SHA-256 is on the [website](https://ai.aeroscan.co.za/), next to the download. Compare it before you install.
@@ -198,7 +198,7 @@ The Android file's SHA-256 is on the [website](https://ai.aeroscan.co.za/), next
 ## Questions
 
 <details><summary><b>Is it free?</b></summary><br>Yes, for everyone. The Free plan gives you every model with fair daily limits, and models marked Free never use a request. Donators get a much larger daily allowance. The current limits are on the [website](https://ai.aeroscan.co.za/#plan).</details>
-<details><summary><b>Why does Windows say it "protected your PC"?</b></summary><br>The beta isn't code-signed yet, and SmartScreen warns about new unsigned apps. Click <b>More info</b>, then <b>Run anyway</b>. To be sure, check the file's hash as shown above.</details>
+<details><summary><b>Why does Windows say it "protected your PC"?</b></summary><br>The app isn't code-signed yet, and SmartScreen warns about new unsigned apps. Click <b>More info</b>, then <b>Run anyway</b>. To be sure, check the file's hash as shown above.</details>
 <details><summary><b>What counts as a request?</b></summary><br>Each chat message uses the request cost of the model you picked; free models use none. In agent mode, every step the agent takes uses the model's cost. A picture uses the cost of its image model.</details>
 <details><summary><b>Where do my files go?</b></summary><br>The agent only works in the project folder you choose, on your own PC. You review its changes and can undo them.</details>
 <details><summary><b>Is the source code available?</b></summary><br>Not at the moment. This repository holds release builds only.</details>
@@ -214,7 +214,7 @@ The Android file's SHA-256 is on the [website](https://ai.aeroscan.co.za/), next
 
 ## Try it today
 
-<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0-beta.11/AeroScan.AI-Beta-Setup-1.0.0-beta.11-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows" height="64"></a>
+<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0/AeroScan.AI-Setup-1.0.0-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows" height="64"></a>
 <a href="https://ai.aeroscan.co.za/"><img src="docs/brand/btn-android.svg" alt="Download for Android" height="64"></a>
 <a href="https://discord.gg/DWYhRmu9Dz"><img src="docs/brand/btn-discord.png" alt="Join our Discord" height="64"></a>
 

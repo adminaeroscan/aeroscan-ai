@@ -2,13 +2,13 @@
 
 <a href="https://ai.aeroscan.co.za/download"><img src="docs/brand/banner.png" alt="AeroScan AI: AI chat and a coding agent, right on your desktop. 40+ AI models, an agent that builds inside your own project folders, and image generation." width="100%"></a>
 
-<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0/AeroScan.AI-Setup-1.0.0-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows (installer, 97 MB)" height="64"></a>
-<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0/AeroScan.AI-Portable-1.0.0-x64.exe"><img src="docs/brand/btn-portable.png" alt="Portable version, no install needed" height="64"></a>
+<a href="https://github.com/adminaeroscan/aeroscan-ai/releases/download/v1.0.0/AeroScan.AI-Setup-1.0.0-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows (installer, 97 MB)" height="64"></a>
+<a href="https://github.com/adminaeroscan/aeroscan-ai/releases/download/v1.0.0/AeroScan.AI-Portable-1.0.0-x64.exe"><img src="docs/brand/btn-portable.png" alt="Portable version, no install needed" height="64"></a>
 <a href="https://ai.aeroscan.co.za/download"><img src="docs/brand/btn-page.png" alt="Download page" height="64"></a>
 <a href="https://ai.aeroscan.co.za/"><img src="docs/brand/btn-android.svg" alt="Download for Android (APK, Android 8 or newer)" height="64"></a>
 <a href="https://discord.gg/DWYhRmu9Dz"><img src="docs/brand/btn-discord.png" alt="Join our Discord" height="64"></a>
 
-<sub>Version 1.0.0 · Windows 10 / 11, 64-bit · <b>Android app</b> too · Free plan for everyone · <a href="https://github.com/adminaeroscan/aeroscan-beta/releases/latest">All releases</a></sub>
+<sub>Version 1.0.0 · Windows 10 / 11, 64-bit · <b>Android app</b> too · Free plan for everyone · <a href="https://github.com/adminaeroscan/aeroscan-ai/releases/latest">All releases</a></sub>
 
 </div>
 
@@ -38,7 +38,7 @@ The same account, the same models, now in your pocket. Chat, make pictures, vide
 - 🛟 **Support and your own providers**: report a problem or an idea and follow the answer, and add your own OpenAI-compatible service with your own key (paid plans).
 - 🔒 **Your own connection**: like the desktop app, requests leave from your phone's own IP through the built-in tunnel.
 
-**Install:** on your phone, open **[ai.aeroscan.co.za](https://ai.aeroscan.co.za/)** and tap **Android app** to download the APK, then open it and allow **Install unknown apps** for your browser when Android asks. Sign in with the account you use on the desktop. After that the app checks for updates by itself and offers a one-tap download. Android 8 or newer, with a free plan for everyone. The website shows the version, size and SHA-256 of the current build, and earlier ones are on the [releases page](https://github.com/adminaeroscan/aeroscan-beta/releases?q=android).
+**Install:** on your phone, open **[ai.aeroscan.co.za](https://ai.aeroscan.co.za/)** and tap **Android app** to download the APK, then open it and allow **Install unknown apps** for your browser when Android asks. Sign in with the account you use on the desktop. After that the app checks for updates by itself and offers a one-tap download. Android 8 or newer, with a free plan for everyone. The website shows the version, size and SHA-256 of the current build, and earlier ones are on the [releases page](https://github.com/adminaeroscan/aeroscan-ai/releases?q=android).
 
 <br>
 
@@ -184,7 +184,7 @@ Models are added and retired all the time, so the full list (chat models, the on
 ### VERIFY
 ## Check your download
 
-The app isn't code-signed yet, which is why Windows shows a warning. To make sure the file is exactly ours, compare its SHA-256 hash with the one in the [release notes](https://github.com/adminaeroscan/aeroscan-beta/releases/latest):
+The app isn't code-signed yet, which is why Windows shows a warning. To make sure the file is exactly ours, compare its SHA-256 hash with the one in the [release notes](https://github.com/adminaeroscan/aeroscan-ai/releases/latest):
 
 ```powershell
 Get-FileHash "$env:USERPROFILE\Downloads\AeroScan.AI-Setup-1.0.0-x64.exe" -Algorithm SHA256
@@ -214,11 +214,11 @@ The Android file's SHA-256 is on the [website](https://ai.aeroscan.co.za/), next
 
 ## Try it today
 
-<a href="https://github.com/adminaeroscan/aeroscan-beta/releases/download/v1.0.0/AeroScan.AI-Setup-1.0.0-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows" height="64"></a>
+<a href="https://github.com/adminaeroscan/aeroscan-ai/releases/download/v1.0.0/AeroScan.AI-Setup-1.0.0-x64.exe"><img src="docs/brand/btn-download.png" alt="Download for Windows" height="64"></a>
 <a href="https://ai.aeroscan.co.za/"><img src="docs/brand/btn-android.svg" alt="Download for Android" height="64"></a>
 <a href="https://discord.gg/DWYhRmu9Dz"><img src="docs/brand/btn-discord.png" alt="Join our Discord" height="64"></a>
 
-Found a bug or have an idea? Tell us in **[Discord](https://discord.gg/DWYhRmu9Dz)** or **[open an issue](https://github.com/adminaeroscan/aeroscan-beta/issues/new)**: say what you did, what you expected and what happened. A screenshot helps.
+Found a bug or have an idea? Tell us in **[Discord](https://discord.gg/DWYhRmu9Dz)** or **[open an issue](https://github.com/adminaeroscan/aeroscan-ai/issues/new)**: say what you did, what you expected and what happened. A screenshot helps.
 
 <sub>AeroScan AI · <a href="https://ai.aeroscan.co.za/download">ai.aeroscan.co.za</a> · <a href="https://discord.gg/DWYhRmu9Dz">Discord</a></sub>
 
